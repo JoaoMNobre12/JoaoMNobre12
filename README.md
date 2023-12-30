@@ -6,7 +6,7 @@ Tenho 16 anos e estou cursando Desenvolvimento de Sistemas na Escola Técnica Es
 
 Participo efetivamente da equipe de robótica da FIRST Etechnology 8276 na parte de Programação e Administração.
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosnobrejoao&show_icons=true&theme=tokyonight) 
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoMNobre12&show_icons=true&theme=tokyonight) 
 
 ### Quais Tecnologias eu utilizo:
 
