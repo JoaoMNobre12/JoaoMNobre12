@@ -22,7 +22,8 @@ Participo efetivamente da equipe de robótica da FIRST Etechnology 8276 na parte
 )
 ![C-SHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 )
-
+![JS](\https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+)
 
 ![CSS](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white
 )
