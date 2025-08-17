@@ -2,9 +2,9 @@
 Seja bem-vindo(a) ao meu github 👋
 
 ### Sobre mim
-Tenho 18 anos e sou formado em Desenvolvimento de Sistemas na Escola Técnica Estadual (ETEC) de São José dos Campos, <br/> tenho interesse em aprender mais sobre a minha área e acredito que ela é de grande ajuda para o desenvolvimento humano. <br>
+Com 18 anos, na Universidade Federal de São Paulo curso Ciência e Tecnologia, com ênfase em Ciência da Computação, conto também com formação técnico em Desenvolvimento de Sistemas na Escola Técnica Estadual (ETEC) de São José dos Campos, <br/> tenho interesse em aprender mais sobre a área de T.I, acredito que ela é de grande ajuda para o desenvolvimento humano. <br>
 
-Participava da equipe de robótica da FIRST Etechnology 8276 na parte de Programação, Marketing e Administrração.
+Atualmente atuo como Trainee na empresa junior Scitec Jr, anteriormente tive um cargo de liderança em Marketing na equipe da FIRST, chamada FRC 8276, além de ser integrante da área de programação. <br>
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoMNobre12&show_icons=true&theme=tokyonight) 
 
